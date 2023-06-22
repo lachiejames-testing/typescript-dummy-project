@@ -10,7 +10,7 @@
         "lodash": "4.17.21",
         "ora": "5.4.1",
         "prompts": "2.4.1",
-        "table": "6.7.1",
+        "table": "6.8.1",
         "url-regex": "5.0.0"
     },
     "devDependencies": {
